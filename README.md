@@ -1,5 +1,5 @@
 # Hello there! My name is Anouk! 👋
-### I am a Full stack Developer with desire for continuous growth and self-improvement.
+### I am a Full stack Developer, currently working on my final Milestone project!
 
 📚  Currently immersing myself into the wonderful world of Coding  
 👩‍💻  Actively looking for my next challenge   
