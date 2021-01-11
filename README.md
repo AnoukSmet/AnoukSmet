@@ -42,7 +42,7 @@
 
 ### Main Projects
 
-1.  <strong>Milestone 4 - Casa Pedra Nobre:</strong> [Repo](https://github.com/AnoukSmet/Casa-Pedra-Nobre) | Expected to be online by end of January
-2.  <strong>Milestone 3 - Dog Health Tracker:</strong> [Repo](https://github.com/AnoukSmet/Dog-Health-Tracker) | [Website](https://dog-health-tracker.herokuapp.com/)
-3.  <strong>Milestone 2 - Brain Quizzers:</strong> [Repo](https://github.com/AnoukSmet/Brain-Quizzers) | [Website](https://anouksmet.github.io/Brain-Quizzers/)
-4.  <strong>Milestone 1 - Naturazy:</strong> [Repo](https://github.com/AnoukSmet/Naturazy) | [Website](https://anouksmet.github.io/Naturazy/)
+1.  <strong>Milestone 4 - Casa Pedra Nobre: </strong><a href="https://github.com/AnoukSmet/Casa-Pedra-Nobre" alt="Casa Pedra Nobre Repo" target="_blank">Repo</a> | Not yet online, expected by end of January
+2.  <strong>Milestone 3 - Dog Health Tracker: </strong><a href="https://github.com/AnoukSmet/Dog-Health-Tracker" alt="Dog Health Tracker Repo" target="_blank">Repo</a> | <a href="https://dog-health-tracker.herokuapp.com/" alt="Dog Health Tracker website" target="_blank">Website</a>
+3.  <strong>Milestone 2 - Brain Quizzers: </strong><a href="https://github.com/AnoukSmet/Brain-Quizzers" alt="Brain Quizzers Repo" target="_blank">Repo</a> | <a href="https://anouksmet.github.io/Brain-Quizzers/" alt="Brain Quizzers website" target="_blank">Website</a>
+4.  <strong>Milestone 1 - Naturazy: </strong><a href="https://github.com/AnoukSmet/Naturazy" alt="Naturazy Repo" target="_blank">Repo</a> | <a href="https://anouksmet.github.io/Naturazy/" alt="Naturazy website" target="_blank">Website</a>
