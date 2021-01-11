@@ -1,45 +1,48 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Hello there! My name is Anouk! 👋
+### I am a Full stack Developer with desire for continuous growth and self-improvement.
 
-Welcome USER_NAME,
+📚  Currently immersing myself into the wonderful world of Coding  
+👩‍💻  Actively looking for my next challenge   
+🐕  Favorite activity... Spend time with my dog (apologies to my fiancé!😉 )  
+🏃‍♀️  Ideal start of the day!  
+🎹  Perfect way to clear my head 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+### Languages
 
-## Gitpod Reminders
+![HTML](https://img.shields.io/static/v1?label=HTML&message=5&style=flat&color=E34F26&logo=html5)
+![CSS](https://img.shields.io/static/v1?label=CSS&message=3&style=flat&color=1572B6&logo=css3)
+![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=flat&color=F7DF1E&logo=JavaScript)
+![Python](https://img.shields.io/static/v1?label=Python&message=3&style=flat&color=3776AB&logo=PYTHON)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Libraries & Frameworks
 
-`python3 -m http.server`
+![Flask](https://img.shields.io/static/v1?label=Flask&message=1.1.2&style=flat&color=000000&logo=flask)
+![Django](https://img.shields.io/static/v1?label=Django&message=3.0.8&style=flat&color=092E20&logo=django)
+![JQuery](https://img.shields.io/static/v1?label=JQuery&message=3.5.1&style=flat&color=0769AD&logo=jquery)
 
-A blue button should appear to click: *Make Public*,
+### Databases
 
-Another blue button should appear to click: *Open Browser*.
+![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=4.2.8&style=flat&color=47A248&logo=mongodb)
+![MySQL](https://img.shields.io/static/v1?label=MySQL&message=8&style=flat&color=4479A1&logo=mysql)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Content & Version Management
 
-A blue button should appear to click: *Make Public*,
+![GitPod](https://img.shields.io/static/v1?label=GitPod&message=🌙&style=flat&color=1AA6E4&logo=gitpod)
+![Github](https://img.shields.io/static/v1?label=GitHub&message=🪐&style=flat&color=181717&logo=github)
+![Heroku](https://img.shields.io/static/v1?label=Heroku&message=👽&style=flat&color=430098&logo=heroku)
 
-Another blue button should appear to click: *Open Browser*.
+### E-commerce
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+![Stripe](https://img.shields.io/static/v1?label=Stripe&message=💰&style=flat&color=008CDD&logo=stripe)
 
-## Updates Since The Instructional Video
+### UX & Design
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap)
+![MaterialDesign](https://img.shields.io/static/v1?label=MaterialDesign&message=🎨&style=flat&color=757575&logo=material-design)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+### Main Projects
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+1.  <strong>Milestone 4 - Casa Pedra Nobre:</strong> [Repo](https://github.com/AnoukSmet/Casa-Pedra-Nobre) | Expected to be online by end of January
+2.  <strong>Milestone 3 - Dog Health Tracker:</strong> [Repo](https://github.com/AnoukSmet/Dog-Health-Tracker) | [Website](https://dog-health-tracker.herokuapp.com/)
+3.  <strong>Milestone 2 - Brain Quizzers:</strong> [Repo](https://github.com/AnoukSmet/Brain-Quizzers) | [Website](https://anouksmet.github.io/Brain-Quizzers/)
+4.  <strong>Milestone 1 - Naturazy:</strong> [Repo](https://github.com/AnoukSmet/Naturazy) | [Website](https://anouksmet.github.io/Naturazy/)
