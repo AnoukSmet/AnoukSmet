@@ -3,7 +3,7 @@
 
 📚  Currently immersing myself into the wonderful world of Coding  
 👩‍💻  Actively looking for my next challenge   
-🐕  Favorite activity... Spend time with my dog (apologies to my fiancé!😉 )  
+🐕  Favorite activity... Spend time with my dog (apologies to my partner!😉 )  
 🏃‍♀️  Ideal start of the day!  
 🎹  Perfect way to clear my head 
 
