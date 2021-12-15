@@ -1,5 +1,5 @@
 # Hello there! My name is Anouk! 👋
-### I am a Full stack Developer, currently working on my final Milestone project!
+### Currently employed as a Backend Developer at Incentro NEXT
 
 📚  Currently immersing myself into the wonderful world of Coding  
 🐕  Favorite activity... Spend time with my dog (apologies to my partner!😉 )  
